@@ -44,3 +44,15 @@ python main.py
 * [Pandas](https://pandas.pydata.org/)
 * [Scikit-learn](https://scikit-learn.org/)
 * [Matplotlib](https://matplotlib.org/)
+
+
+
+## Further Implementation
+
+1. Collaborative Filtering: Collaborative filtering is a technique that can filter out items that a user might like on the basis of reactions by similar users. This technique can be implemented using k-nearest neighbors, matrix factorization and other machine learning algorithms.
+
+2. Content-Based Filtering: Content-based filtering is a technique that uses item features to recommend items to users. This technique can be implemented using Natural Language Processing (NLP) to extract relevant features from movie descriptions, and then use them to make recommendations.
+
+3. Hybrid Recommendation System: Hybrid recommendation systems combine the advantages of both collaborative filtering and content-based filtering to provide better recommendations. 
+
+4. Deep Learning: Deep learning can be used to develop more sophisticated recommendation systems. Deep learning models such as recurrent neural networks (RNNs) and convolutional neural networks (CNNs) can be used to capture complex patterns in user-item interactions.
